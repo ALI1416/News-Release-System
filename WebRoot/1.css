@@ -1,0 +1,5 @@
+body{	/*背景*/
+	background: url(bg.jpg) no-repeat;
+	background-size: 1280px;
+	background-position:top left;
+}
